@@ -6,5 +6,3 @@ player = {
 
 print(player["name"])
 print(player["years"])
-
-
