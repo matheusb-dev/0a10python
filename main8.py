@@ -1,8 +1,17 @@
 nome = []
-horasTrabalhadas = float(input('Digite o valor da hora trabalhada:... '))
-INSS = float(input('Digite o valor do INSS:... '))
 print('-------------------------')
 
+def salario_calcular(horasTrabalhadas, INSS):
+    return horasTrabalhadas, INSS
+
+horasTrabalhadas = float(input('Digite o valor da hora trabalhada:... '))
+INSS = float(input('Digite o valor do INSS:... '))
+
+exibir = salario_calcular(horasTrabalhadas, INSS)
+
+print(exibir);
+
+print('-------------------------')
 
 for n in range(4):
     name = input("Digite o nome do/a funcionario/a:.. ")
