@@ -1,2 +1,4 @@
-# 0a10python
-Do 0 ao avançado em Python, todos os dias estudando pelo menos uns 20 minutos...
+# Do 0 a 10 Em PYTHON
+
+Sou estudante de Engenharia de Software, do 1 Semestre e após um discurso motivacional do meu professor GILDO - Prof. IHC,
+decidi fazer a diferença, se eu não fazer por mim quem fara então??
